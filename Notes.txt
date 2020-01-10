@@ -1,0 +1,12 @@
+
+Instrucción: tsc archivo
+Función: Transpila archivo.ts → archivo.js
+
+Instrucción: tsc archivo -w
+Función: Lo mismo, pero en modo observer
+
+Instrucción: tsc -init
+Función: Crea el archivo tsconfig.json
+
+Instrucción: tsc
+Función: Busca los .ts de la ruta y los transpila

@@ -1,9 +1,9 @@
 function saludar(nombre: string) {
-    console.log('Hola:', nombre.toUpperCase);
+    console.log('Hola:', nombre.toUpperCase());
 }
 
 var wolverine = {
-    nombre: 'Logan'
+    nombre: 'Wolverine'
 };
 
 saludar(wolverine.nombre);
