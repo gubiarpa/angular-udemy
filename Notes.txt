@@ -10,3 +10,8 @@ Función: Crea el archivo tsconfig.json
 
 Instrucción: tsc
 Función: Busca los .ts de la ruta y los transpila
+
+Variables
+const: Es una constante la cual NO cambiara su valor en ningún momento en el futuro.
+var: Es una variable que SI puede cambiar su valor y su scope es local.
+let: Es una variable que también podra cambiar su valor, pero solo vivirá(Funcionara) en el bloque donde fue declarada.
